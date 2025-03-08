@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import control as 
+import control as ctrl
 
 
 s = ctrl.TransferFunction.s
